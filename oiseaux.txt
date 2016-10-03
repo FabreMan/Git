@@ -2,8 +2,17 @@ Canard colvert
 Nette rousse
 Canard pilet
 Canard chipeau
+<<<<<<< HEAD
+=======
+Canard siffleur
+Sarcelle d'hiver
+>>>>>>> master
 Chevalier culblanc
 Chevalier aboyeur
 Courlis corlieu
 Courlis cendré
+<<<<<<< HEAD
 Martinet
+=======
+Rossignol
+>>>>>>> master
